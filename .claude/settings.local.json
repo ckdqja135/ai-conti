@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(find /d/Project/worship-conti-app/src -type f \\\\\\(-name *.jsx -o -name *.js -o -name *.html \\\\\\))"
+    ]
+  }
+}
